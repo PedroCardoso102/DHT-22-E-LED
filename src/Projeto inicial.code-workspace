@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"name": "Projeto inicial",
+			"path": "../../Projeto inicial"
+		},
+		{
+			"name": "Arrogathi",
+			"path": "../../Arrogathi"
+		},
+		{
+			"name": "DHT22",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"animeCompanion.chat.model": "gpt-4o-mini",
+		"animeCompanion.chat.provider": "openrouter"
+	}
+}
